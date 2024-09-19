@@ -16,7 +16,6 @@ Linux was created in 1991 by **Linus Torvalds**, a Finnish computer science stud
 - **2000s**: Widespread adoption in servers and embedded systems due to its reliability and open-source nature.
 - **Today**: Powers a significant portion of the internet, mobile devices (via Android), and many other systems.
 
-![Linux History](https://example.com/linux-history-graphic.png) <!-- Replace with actual image URL -->
 
 ### Section 2: Linux Distributions 🌍
 **Linux distributions** (or "distros") package the Linux kernel with additional software to cater to different needs. Each distribution provides a unique environment and set of tools.
@@ -30,7 +29,6 @@ Here are some popular Linux distributions:
 | **Fedora**       | Focuses on the latest technologies and innovation, maintained by Red Hat, and is known for its cutting-edge features. |
 | **Arch Linux**   | A rolling release distro that emphasizes simplicity and customization, appealing to advanced users who want full control. |
 
-![Linux Distributions](https://example.com/linux-distributions-graphic.png) <!-- Replace with actual image URL -->
 
 ### Section 3: Basic Linux Commands 🖥️
 Here’s a summary of essential Linux commands that every user should know:
