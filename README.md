@@ -44,8 +44,6 @@ Here’s a summary of essential Linux commands that every user should know:
 | `rm`        | Remove files or directories. Example: `rm file.txt` deletes file.txt.          |
 | `sudo`      | Execute a command as the superuser. Example: `sudo apt-get update` updates the package list. |
 
-![Basic Linux Commands](https://example.com/linux-commands-graphic.png) <!-- Replace with actual image URL -->
-
 ### Conclusion 🎓
 Learning about Linux provides a valuable skill set for understanding open-source software and system administration. Linux's evolution from a student project to a global standard highlights its significance and flexibility in modern computing.
 
