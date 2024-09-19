@@ -51,10 +51,3 @@ Here’s a summary of essential Linux commands that every user should know:
 ### Conclusion 🎓
 Learning about Linux provides a valuable skill set for understanding open-source software and system administration. Linux's evolution from a student project to a global standard highlights its significance and flexibility in modern computing.
 
-**Example Repository:**
-
-Refer to the example repository [here](https://github.com/sojoudian/winp2000_m06_week3) for a sample of how the documentation should be structured.
-
-**Submission:**
-
-Each team member must push their `README.md` file to their Git repository (`winp2000_m06_week3`) and ensure it is publicly available or shared with the group for review. One member should submit a PDF containing the Git repository URLs of all group members.
